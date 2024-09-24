@@ -2,6 +2,8 @@
 Creating a management system for student grades.
 
 ## Group Members
-Quinn Ledingham 30092066
-Muhammad Ayan Khan 30267943
-Gretchen Ge 30256067
+<ul>
+<li>Quinn Ledingham 30092066</li>
+<li>Muhammad Ayan Khan 30267943</li>
+<li>Gretchen Ge 30256067</li>
+</ul>
