@@ -1,4 +1,5 @@
 # Assignment 3
+Implementing examples of gradient descent and logistic regression.
 
 ## Group Members
 <ul>
