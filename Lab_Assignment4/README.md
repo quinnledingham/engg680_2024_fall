@@ -1,5 +1,5 @@
 # Assignment 4
-ML Applications - Vehicle Motion State Classification Fine Tuning
+ML Applications - Vehicle Motion State Classification With Different Features/Models
 
 ## Group Members
 <ul>
